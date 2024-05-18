@@ -25,3 +25,4 @@ class heroi{
 
 let heroi1 = new heroi('Thartra', 18, 'mago');
 heroi1.ataque();
+//teste linux kkkkkkkkkk
